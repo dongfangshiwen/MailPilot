@@ -1,0 +1,12 @@
+-keep class org.eclipse.angus.mail.** { *; }
+-keep class org.eclipse.angus.activation.** { *; }
+-keep class jakarta.mail.** { *; }
+-keep class jakarta.activation.** { *; }
+-dontwarn java.awt.**
+-dontwarn java.beans.**
+-dontwarn javax.security.sasl.**
+-dontwarn javax.security.auth.callback.**
+-dontwarn org.eclipse.angus.mail.handlers.**
+-keepattributes Signature,InnerClasses,EnclosingMethod
+-dontwarn org.graalvm.nativeimage.**
+# Angus includes optional GraalVM build-time integrations; Android does not load them.

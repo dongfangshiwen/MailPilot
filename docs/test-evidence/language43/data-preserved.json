@@ -1,0 +1,13 @@
+{
+  "integrity": "ok",
+  "allTablesUnchanged": true,
+  "settingsUnchanged": true,
+  "fromBuild": 41,
+  "toBuild": 41,
+  "installation": "daily package unchanged; UI test uses app.mailpilot.validation",
+  "existingSettingsUnchanged": true,
+  "addedSettingsFiles": [],
+  "changedSettingsFiles": [],
+  "applicationConfigurationUnchanged": true,
+  "note": "Table and settings hashes were compared after isolated UI tests. Any changed preference filenames are explicitly listed; no preference values are included."
+}

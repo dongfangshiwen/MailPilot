@@ -1,0 +1,1054 @@
+{
+  "@@locale": "zh",
+  "switchAccount": "切换邮箱",
+  "closeAccountPicker": "关闭邮箱选择",
+  "switchAccountCurrent": "切换邮箱，当前 {p0}",
+  "@switchAccountCurrent": {
+    "description": "MailPilot UI: lib/account_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "openWithAnotherApp": "使用其他应用打开",
+  "openInAnotherApp": "其他应用打开",
+  "saveToDevice": "保存到手机",
+  "couldNotStartRecording": "无法开始录音",
+  "addImage": "添加图片",
+  "addFile": "添加文件",
+  "selectEmails": "选择邮件",
+  "manageImportedMaterials": "管理已导入资料",
+  "deepThinking": "深度思考",
+  "editInput": "修改输入",
+  "cancelEdit": "取消修改",
+  "selectedMaterialsCount": "已选 {p0} 封邮件 · {p1} 个附件",
+  "@selectedMaterialsCount": {
+    "description": "MailPilot UI: lib/chat_composer.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      },
+      "p1": {
+        "type": "int"
+      }
+    }
+  },
+  "clearSelection": "清空选择",
+  "listeningUpToSeconds": "正在聆听 · 最长 60 秒",
+  "transcribing": "正在识别…",
+  "startingMicrophone": "正在启动麦克风…",
+  "recordAgainInCloudMode": "云端重录",
+  "cancelVoiceInput": "取消语音输入",
+  "askAboutSelectedMaterials": "询问所选资料…",
+  "messageOrUseVoiceInput": "发消息，或语音输入",
+  "smartSearch": "智能搜索",
+  "thinking": "思考",
+  "search": "搜索",
+  "addAttachment": "添加附件",
+  "stopResponse": "停止回答",
+  "stopRecording": "结束录音",
+  "sendQuestion": "发送问题",
+  "voiceInput": "语音输入",
+  "draftDeleted": "草稿已删除",
+  "pleaseViewTheLatestVersion": "请查看最新版本",
+  "from": "发件人",
+  "to": "收件人",
+  "cc": "抄送",
+  "bcc": "密送",
+  "notEntered": "尚未填写",
+  "noSubject": "（无主题）",
+  "afterReviewingConfirmSendingOrTapThe": "核对后回复“确认发送”，或点击下方按钮。",
+  "confirmSend": "确认发送",
+  "addRecipient": "补充收件人",
+  "viewLatestVersion": "查看最新版本",
+  "reviewAndEdit": "查看并修改",
+  "editEmail": "编辑邮件",
+  "jumpToLatestMessage": "回到最新消息",
+  "inbox": "收件箱",
+  "sent": "已发送",
+  "drafts": "草稿",
+  "deleted": "已删除",
+  "spam": "垃圾邮件",
+  "archive": "归档",
+  "mailFolders": "邮件文件夹",
+  "refreshFolders": "刷新文件夹",
+  "couldNotRefreshFoldersLocalListRetained": "文件夹刷新失败，已保留本地列表。{p0}",
+  "@couldNotRefreshFoldersLocalListRetained": {
+    "description": "MailPilot UI: lib/common.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "unreadOnly": "仅显示未读",
+  "deleteThisDraft": "删除这份草稿？",
+  "onlyTheLocalDraftIsDeletedChats": "仅删除本地草稿，聊天记录和服务器邮件保留。",
+  "delete": "删除",
+  "draftActions": "草稿操作",
+  "rewrite": "重新拟写",
+  "deleteDraft": "删除草稿",
+  "recipientEmail": "目标邮箱",
+  "separateMultipleAddressesWithCommas": "多个地址用英文逗号分隔",
+  "afterSavingReviewTheNewConfirmationCard": "保存后展示新确认卡片，由你核对并发送。",
+  "saveRecipients": "保存收件人",
+  "draftAnswerPrompt": "请将本次对话中这条回答涉及的内容写成正式邮件：",
+  "draftAnswerPromptSuffix": "供我检查并确认发送。",
+  "turnThisAnswerIntoAnEmail": "将这条回答写成邮件",
+  "viewOriginalOfOlderVersion": "查看旧版原文",
+  "messageActions": "消息操作",
+  "needsVerification": "待核实",
+  "sending": "发送中",
+  "sendFailed": "发送失败",
+  "confirm": "确认",
+  "cancel": "取消",
+  "attachmentCount": "{p0} 个附件",
+  "@attachmentCount": {
+    "description": "MailPilot UI: lib/common.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "select": "选择 {p0}",
+  "@select": {
+    "description": "MailPilot UI: lib/common.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "emailAndModelConnectionsRequireAndroidUse": "邮箱与模型连接需要 Android 设备，请使用界面预览入口。",
+  "notConnectedToTheAndroidMailService": "未连接到 Android 邮件服务。请完全关闭后重新打开最新版 APK；浏览器和 Widget Preview 请使用界面预览入口。",
+  "actionIncomplete": "操作未完成",
+  "thisFeatureIsUnavailableInTheCurrent": "当前运行环境不支持此功能",
+  "pin": "置顶",
+  "today": "今天",
+  "yesterday": "昨天",
+  "previousDays": "7 天内",
+  "previousDays86": "30 天内",
+  "olderConversationDate": "{p0} 年 {p1} 月 {p2} 日",
+  "@olderConversationDate": {
+    "description": "MailPilot UI: lib/conversation_drawer.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "loadingConversations": "正在加载对话",
+  "noMatchingConversations": "没有找到相关对话",
+  "yourConversationsWillAppearHere": "对话会保存在这里",
+  "tryShorterKeywordsOrClearTheSearch": "试试更短的关键词，或清空搜索。",
+  "startAChatAndComeBackAnytime": "开始聊天后，随时回来继续。",
+  "clearSearch": "清空搜索",
+  "startAConversation": "开始对话",
+  "couldNotLoadConversationsTapToRetry": "会话加载失败，点击重试",
+  "renameConversation": "重命名对话",
+  "enterConversationName": "输入对话名称",
+  "save": "保存",
+  "deleteConversationCount": "删除 {p0} 个对话？",
+  "@deleteConversationCount": {
+    "description": "MailPilot UI: lib/conversation_drawer.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "chatsSummariesAndAnalysisCachesForThese": "聊天记录、摘要及这些会话的分析缓存会被删除，邮箱邮件和草稿保留。",
+  "rename": "重命名",
+  "unpin": "取消置顶",
+  "selectMultiple": "多选",
+  "selectedConversationCount": "已选 {p0} 个对话",
+  "@selectedConversationCount": {
+    "description": "MailPilot UI: lib/conversation_drawer.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "exitSelection": "退出多选",
+  "closeSidebar": "关闭侧栏",
+  "searchConversations": "搜索对话内容…",
+  "conversationSummary": "对话摘要",
+  "loading": "正在加载…",
+  "loadMore": "加载更多",
+  "selectConversations": "多选对话",
+  "settings": "设置",
+  "thisConversationSSummary": "本次对话摘要",
+  "summarizedMessageCount": "已整理 {p0} 条较早消息",
+  "@summarizedMessageCount": {
+    "description": "MailPilot UI: lib/conversation_summary.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "closeSummary": "关闭对话摘要",
+  "originalMessagesAreRetainedYouCanAdd": "原始聊天仍保留，可继续补充或纠正。",
+  "noSummaryForThisConversationYet": "当前对话暂无摘要。",
+  "conversationChangedPleaseReopenTheSummary": "对话已切换，请重新打开摘要。",
+  "draftingReadOnlyPreview": "正在起草 · 只读预览",
+  "incompleteCannotSend": "未完成 · 不能发送",
+  "draftingEmail": "邮件起草",
+  "generatingResponse": "生成回答",
+  "readingImages": "读取图片",
+  "preparingMaterials": "准备资料",
+  "generatingContent": "生成内容",
+  "parsingModelAction": "解析模型操作",
+  "organizingExistingResults": "整理已有结果",
+  "organizingContext": "整理上下文",
+  "webSearch": "联网搜索",
+  "currentRequest": "本轮请求",
+  "requestId": "请求标识",
+  "serverId": "服务端标识",
+  "httpStatus": "HTTP 状态",
+  "finishReason": "结束原因",
+  "exceptionType": "异常类型",
+  "validationResult": "校验结果",
+  "requestBudgetAndDiagnostics": "本轮预算与诊断",
+  "connectionDiagnostics": "连接诊断",
+  "requestRecordsForThisTurn": "本轮请求记录",
+  "closeDiagnostics": "关闭连接诊断",
+  "processingStage": "处理阶段",
+  "model": "模型",
+  "apiHost": "接口主机",
+  "imageProcessing": "图片处理",
+  "fullTextAndImageResponse": "完整图文回答",
+  "visionAssistantReading": "视觉助手读取",
+  "batchProcessingSelectedForThisTurn": "本轮选择分批",
+  "reusingPreviousAnalysis": "复用此前分析",
+  "requestsWithImages": "带图请求",
+  "requestCount": "{p0} 次",
+  "@requestCount": {
+    "description": "MailPilot UI: lib/draft_streaming_preview.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "totalImagesUploaded": "累计上传图片",
+  "imageCount": "{p0} 张",
+  "@imageCount": {
+    "description": "MailPilot UI: lib/draft_streaming_preview.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "reusedImages": "复用图片",
+  "batchingReason": "分批原因",
+  "estimatedInput": "预计输入",
+  "availableInputBudget": "可用输入预算",
+  "configuredContext": "配置上下文",
+  "outputReserve": "输出预留",
+  "thinkingReserve": "思考预留",
+  "suggestedSummaryLength": "建议摘要长度",
+  "summaryBudgetLimit": "摘要可用上限",
+  "currentSummaryEstimate": "当前摘要估算",
+  "localEstimatesMayDifferFromProviderMetering": "本地估算，不等同于厂商计量。95% 触发整理，60% 为整理目标。",
+  "timeToFirstChunk": "首包耗时",
+  "lastChunkReceived": "末包到达",
+  "requestDuration": "请求用时",
+  "technicalDetails": "技术详情",
+  "requestIdsAndExceptionInformation": "请求标识与异常信息",
+  "convertedToEmailBodyReviewBeforeSaving": "已转换为邮件正文，请检查后保存",
+  "conversionFailedOriginalTextRetained": "正文转换失败，原文已保留",
+  "discardUnsavedChanges": "放弃未保存的修改？",
+  "savedDraftsAreRetained": "已保存的草稿会保留。",
+  "discardChanges": "放弃修改",
+  "deleteThisLocalRecord": "删除这条本地记录？",
+  "serverEmailsAreRetained": "服务器邮件会保留。",
+  "composeEmail": "写邮件",
+  "back": "返回",
+  "moreEmailActions": "更多邮件操作",
+  "saveChangesAndRewrite": "保存修改后重新拟写",
+  "convertMarkdownToBodyText": "将 Markdown 转为正文",
+  "sendingAccount": "发件邮箱",
+  "subject": "主题",
+  "body": "正文",
+  "sendAsThePlainTextShownHere": "按此处显示的纯文本发送",
+  "ccBcc": "抄送 / 密送",
+  "remove": "移除 {p0}",
+  "@remove": {
+    "description": "MailPilot UI: lib/editor.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "firstCheckTheServerSSentFolder": "请先核对服务器的已发送记录和收件情况。",
+  "verifiedThatSendingSucceeded": "已经核实发送成功？",
+  "thisOnlyUpdatesTheLocalRecord": "此操作只更新本地记录。",
+  "verifiedSentSuccessfully": "已核实：发送成功",
+  "confirmedThatNoRecipientsReceivedIt": "确认所有收件人都未收到？",
+  "restoreTheDraftToReviewAndSend": "恢复草稿后可重新审核发送。若有部分收件人已收到，请先修改收件人。",
+  "restoreDraft": "恢复草稿",
+  "verifiedNotSent": "已核实：未发送",
+  "confirmSendingInChat": "在聊天中确认发送",
+  "confirmBeforeSending": "发送前确认",
+  "pleaseReviewTheFollowing": "请核对以下内容",
+  "accountDeleted": "账号已删除",
+  "couldNotReadAttachment": "附件读取失败",
+  "couldNotReadImagePleaseRetry": "图片未能读取，请重试",
+  "couldNotReadPagePleaseRetry": "页面未能读取，请重试",
+  "reload": "重新加载",
+  "referencedMaterial": "引用资料",
+  "formattedView": "排版阅读",
+  "viewOriginal": "查看原文",
+  "theFollowingWasGeneratedByAVision": "以下内容由视觉模型阅读图片后生成，可结合原图核对。",
+  "previousPage": "上一页",
+  "nextPage": "下一页",
+  "loadingReferencedMaterial": "正在加载引用资料…",
+  "selectedImageOrPdfPagePinchTo": "所选图片附件或 PDF 页面，可双指缩放",
+  "imageUnavailableRetryOrOpenWithAnother": "图片无法显示，可重试或用其他应用打开。",
+  "pinchToZoomSavingAndExternalOpening": "双指缩放查看 · 保存和外部打开使用原始附件",
+  "mail": "邮件",
+  "myEmails": "我的邮件",
+  "draftsAndSending": "草稿与发送",
+  "emailAccounts": "邮箱账户",
+  "addEmailAccount": "添加邮箱",
+  "modelsAndServices": "模型与服务",
+  "defaultModel": "默认模型",
+  "visionAssistant": "视觉助手",
+  "addModel": "添加模型",
+  "automaticCurrentModelPreferred": "自动选择 · 当前模型优先",
+  "fixedAssistant": "固定助手 · {p0}",
+  "@fixedAssistant": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "configurationUnavailable": "配置已失效",
+  "chooseAutomatically": "自动选择",
+  "searchAndVoice": "搜索与语音",
+  "webServicesAndSpeechRecognition": "联网服务、语音识别",
+  "preferences": "偏好设置",
+  "contextOrganization": "上下文整理",
+  "fastOrganizationResponseSettingsUnchanged": "快速整理 · 正式回答不变",
+  "followCurrentThinkingMode": "跟随当前思考模式",
+  "fastOrganizationNonThinkingModeOnSupported": "快速整理（支持的接口使用非思考模式）",
+  "appearance": "外观",
+  "systemDefault": "跟随系统",
+  "light": "浅色",
+  "dark": "深色",
+  "backgroundSync": "后台同步",
+  "off": "关闭",
+  "hourly": "每小时",
+  "onceADay": "每天一次",
+  "everyMinutes": "每 {p0} 分钟",
+  "@everyMinutes": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "everyMinutes242": "每 30 分钟",
+  "clearCacheAndChats": "清理缓存与聊天记录",
+  "clearLocalCache": "清理本地缓存？",
+  "downloadedAttachmentsPagePreviewsAllChatsAnd": "下载的附件、页面预览、全部聊天记录和上下文摘要会被清理。邮箱、模型配置及草稿附件会保留。",
+  "versionAndSendConfirmation": "MailPilot {p0}\n每次发送邮件，都由你确认。",
+  "@versionAndSendConfirmation": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "custom": "自定义",
+  "appPassword": "授权码",
+  "alibabaBusiness": "阿里企业",
+  "passwordSecurityPassword": "密码／安全密码",
+  "alibabaPersonal": "阿里个人",
+  "emailPassword": "邮箱密码",
+  "passwordAppPassword": "密码／授权码",
+  "leaveBlankToKeepSavedCredentials": "留空保留已保存的凭据。",
+  "theAdministratorMustAllowThirdPartyClients": "管理员需允许第三方客户端和 IMAP/SMTP。已启用安全密码时，请填写三方客户端安全密码。",
+  "enterTheFullEmailAddressAndPassword": "填写完整邮箱地址及邮箱密码；请确认已允许客户端访问。",
+  "enableImapSmtpInYourEmailSettings": "在邮箱设置中开启 IMAP/SMTP 后获取授权码。",
+  "useTheEmailPasswordOrAppPassword": "填写服务商要求的邮箱密码或客户端授权码。",
+  "hideCredentials": "隐藏凭据",
+  "showCredentials": "显示凭据",
+  "connectEmail": "连接邮箱",
+  "emailSettings": "邮箱设置",
+  "mail263": "{p0} 邮箱",
+  "@mail263": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "mail264": "{p0}邮箱",
+  "@mail264": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "emailAddress": "邮箱地址",
+  "senderNameOptional": "发件人名称（选填）",
+  "emailSetupGuide": "如何配置邮箱",
+  "connectionDetailsAndInstructions": "连接参数与填写说明",
+  "officialGuide": "{p0} · 官方指引",
+  "@officialGuide": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "serverAndAdvancedSettings": "服务器与高级设置",
+  "accountLabel": "账号备注",
+  "loginUsername": "登录用户名",
+  "leaveBlankToUseTheFullEmail": "留空使用完整邮箱地址",
+  "imapHost": "IMAP 主机",
+  "imapPort": "IMAP 端口",
+  "incomingEncryption": "收信加密",
+  "smtpHost": "SMTP 主机",
+  "smtpPort": "SMTP 端口",
+  "outgoingEncryption": "发信加密",
+  "testConnection": "测试连接",
+  "saveAccount": "保存邮箱",
+  "deleteThisAccount": "删除这个邮箱？",
+  "localEmailsDraftsAndAnalysisForThis": "此邮箱的本地邮件、草稿和分析记录会被删除，服务器邮件会保留。",
+  "deleteAccount": "删除邮箱",
+  "modelOptions": "模型选项",
+  "closeModelOptions": "关闭模型选项",
+  "defaultTextModel": "默认文字模型",
+  "forEverydayChatAndEmailDrafting": "用于日常对话与邮件起草",
+  "useAsFixedVisionAssistant": "固定为视觉助手",
+  "forReadingImagesAndPdfPages": "用于阅读图片与 PDF 页面",
+  "connectionDiagnosticsOptional": "连接诊断（可选）",
+  "sendTextStreamingToolAndImageRequests": "发送文字、流式、工具及图片请求",
+  "deleteModel": "删除模型",
+  "deleteLocalConfigurationAndKeyAfterConfirmation": "删除本机配置和密钥，需要再次确认",
+  "deleteThisModel": "删除这个模型？",
+  "theLocalConfigurationAndKeyWillBe": "本机的配置和密钥会被删除。",
+  "setAsFixedVisionAssistant": "已固定为视觉助手",
+  "setAsDefaultTextModel": "已设为默认文字模型",
+  "savedLeaveBlankToRetain": "已保存 · 留空保留",
+  "hideKey": "隐藏密钥",
+  "showKey": "显示密钥",
+  "providerDefault": "服务商默认",
+  "enableThinking": "开启思考",
+  "disableThinking": "关闭思考",
+  "letTheModelDecide": "模型自动判断",
+  "modelSettings": "模型设置",
+  "connectionConfiguration": "连接配置",
+  "modelProvider": "模型服务商",
+  "autoDetect": "自动识别",
+  "autoDetect310": "自动识别 · {p0}",
+  "@autoDetect310": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "configurationName": "配置名称",
+  "apiUrl": "API 地址",
+  "modelName": "模型名称",
+  "selectABundledModel": "选择内置型号",
+  "youCanAlsoEnterTheModelName": "也可以直接填写模型名称",
+  "bundledModels": "内置型号",
+  "advancedParameters": "高级参数",
+  "thinkingModeEffortAndOutputLength": "思考模式、思考档位与输出长度",
+  "thinkingMode": "思考模式",
+  "useProviderDefaultsWithoutExtraThinkingParameters": "沿用服务商设置，不附加思考参数",
+  "askTheModelToThinkDeeply": "请求模型进行深入思考",
+  "askTheModelToAnswerDirectly": "请求模型直接回答",
+  "letTheModelDecideWhetherThinkingIs": "由模型按问题决定是否思考",
+  "thinkingEffort": "思考档位",
+  "higherEffortUsuallyTakesLongerAndUses": "档位越高，通常等待更久、消耗更多 Token。可用档位以具体模型为准。",
+  "thinkingBudgetTokens": "思考预算（Token）",
+  "blankOrUsesProviderDefaultsChooseEither": "留空或 0 跟随服务商；预算与档位二选一。",
+  "contextSettings": "上下文设置",
+  "followModelSpecification": "跟随型号",
+  "officialApisUseVerifiedContextLimitsFor": "官方接口自动匹配已核实型号的上下文额度",
+  "setALocalBudgetWithinTheProvider": "手动设置本地可用额度，不能超过厂商上限",
+  "currentContextTokens": "当前上下文：{p0} Token。{p1}",
+  "@currentContextTokens": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "planApiLimitsAreUnverifiedCurrentSettings": "套餐接口限额暂未核实，保留当前配置，不套用标准接口额度。",
+  "thisApiOrModelIsNotIn": "此接口或型号未收录，可使用自定义额度。",
+  "currentContextTokensOfficialMaximumInputTokens": "当前上下文：{p0} Token\n官方最大输入：{p1} Token · {p2}\n目录核实于 {p3}。实际输入还会预留输出空间。",
+  "@currentContextTokensOfficialMaximumInputTokens": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      },
+      "p3": {
+        "type": "String"
+      }
+    }
+  },
+  "nonThinking": "非思考",
+  "thinkingDefault": "思考／默认",
+  "contextIsOrganizedAtOfTheEffective": "预计达到有效输入预算的 95% 时整理，目标降至 60%；原始记录保留。",
+  "maximumOutputLength": "最大输出长度",
+  "useModelMaximum": "跟随型号最大值",
+  "useTheVerifiedMaximumOutputForThe": "按实际型号使用已核实的最大输出额度",
+  "keepYourCustomOutputLength": "保留你填写的输出长度",
+  "theMaximumOutputForThisApiIs": "此接口的最大输出尚未核实，暂用 4096 Token，可切换自定义。",
+  "modelMaximumOutputTokensRequestsAdjustTo": "型号最大输出：{p0} Token。实际请求按剩余上下文空间调整；模型可以提前结束，不会强制写满。",
+  "@modelMaximumOutputTokensRequestsAdjustTo": {
+    "description": "MailPilot UI: lib/forms.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "contextLength": "上下文长度",
+  "customOutputLength": "自定义输出长度",
+  "lengthsAreInTokensSomeModelsCount": "长度单位为 Token；部分模型会将思考计入输出。",
+  "outputLengthParameter": "输出长度参数",
+  "standardParameter": "标准参数",
+  "completionLengthParameter": "完成长度参数",
+  "chooseAccordingToTheProviderSApi": "按服务商接口要求选择，不改变填写的输出长度。",
+  "notTested": "尚未测试",
+  "processing": "处理中…",
+  "saveModel": "保存模型",
+  "emailCount": "{p0} 封邮件",
+  "@emailCount": {
+    "description": "MailPilot UI: lib/mail_search_results.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "expandEmailCount": "展开全部 {p0} 封",
+  "@expandEmailCount": {
+    "description": "MailPilot UI: lib/mail_search_results.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "previousEmailPage": "上一页邮件",
+  "nextEmailPage": "下一页邮件",
+  "collapse": "收起",
+  "qqMail": "QQ 邮箱",
+  "enableMailServices": "开启邮箱服务",
+  "signInToQqMailInA": "在电脑浏览器登录 QQ 邮箱，进入设置 → 账号与安全 → 安全设置，开启 POP3/IMAP/SMTP 服务。",
+  "generateAnAppPassword": "生成授权码",
+  "completeIdentityVerificationOnTheOfficialPage": "按官方页面完成身份验证，生成 16 位授权码。在本页填写授权码。",
+  "returnToAccountForm": "返回填写账号",
+  "enterTheFullEmailAddressServersAre": "邮箱地址填写完整地址。服务器已预填，可先测试连接，再保存。",
+  "getAndManageAppPasswords": "获取与管理授权码",
+  "mail368": "163 邮箱",
+  "enableImapSmtp": "开启 IMAP/SMTP",
+  "signInToWebmailFindPopSmtp": "登录 163 邮箱网页版，在设置中找到 POP3/SMTP/IMAP，开启 IMAP/SMTP 服务。",
+  "getAClientAppPassword": "获取客户端授权码",
+  "completeTheVerificationAsInstructedAndEnter": "按页面提示完成验证，将生成的客户端授权码填入本页。",
+  "checkTheFullEmailAddress": "核对完整邮箱地址",
+  "useYourFullComAddressIfYou": "使用完整的 @163.com 地址；若找不到开关，可在网易官方帮助中心搜索“授权码”或“IMAP”。",
+  "neteaseMailOfficialHelp": "网易邮箱官方帮助中心",
+  "alibabaBusinessMail": "阿里企业邮箱",
+  "checkClientPermissions": "确认客户端权限",
+  "askTheAdministratorToAllowThirdParty": "请管理员为当前账号允许第三方客户端登录，并开启 IMAP/SMTP。新购企业邮箱可能默认限制第三方客户端。",
+  "prepareASecurityPassword": "准备安全密码",
+  "inWebmailGoToSettingsAccountAnd": "在网页版设置 → 账号与安全中生成三方客户端安全密码。启用后，在本页使用该安全密码。",
+  "enterTheBusinessEmailAddress": "填写企业邮箱地址",
+  "useTheFullBusinessAddressDefaultServers": "使用完整的企业邮箱地址。默认使用通用服务器；香港地区或企业指定配置可在高级设置中修改。",
+  "allowThirdPartyClients": "允许第三方客户端访问",
+  "generateAThirdPartyClientSecurityPassword": "生成三方客户端安全密码",
+  "serverAddressesAndPorts": "服务器地址与端口",
+  "alibabaPersonalMail": "阿里个人邮箱",
+  "checkAccountType": "确认邮箱类型",
+  "thisPresetIsForFreeAlibabaCloud": "此配置适用于阿里云免费个人邮箱。使用公司域名的企业邮箱，请选择“阿里企业”。",
+  "prepareLoginDetails": "准备登录信息",
+  "enterTheFullEmailAddressAndRequired": "填写完整邮箱地址及邮箱要求的登录凭据；确认账号已允许客户端访问。",
+  "checkServers": "核对服务器",
+  "useTheOfficialSslServerSettingsBelow": "使用下方官方 SSL 服务器参数，可先测试连接，再保存。",
+  "personalMailServersAndPorts": "个人邮箱服务器与端口",
+  "customEmailProvider": "自定义邮箱",
+  "identifyYourProvider": "确认服务商",
+  "aCustomDomainDoesNotIdentifyThe": "自定义域名不能确定邮箱服务商，请向邮箱管理员确认。",
+  "getConnectionSettings": "获取连接参数",
+  "prepareImapAndSmtpHostsPortsEncryption": "准备 IMAP、SMTP 主机、端口、加密方式，以及密码或客户端授权码。",
+  "enterAndVerify": "填写并验证",
+  "expandServerAndAdvancedSettingsAndEnter": "展开服务器与高级设置，按服务商提供的参数填写。",
+  "setupGuide": "{p0}配置指引",
+  "@setupGuide": {
+    "description": "MailPilot UI: lib/mail_setup_guide.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSetupGuide": "关闭配置指引",
+  "defaultServersSsl": "默认服务器 · SSL",
+  "incomingPortOutgoingPort": "收信  {p0}\n端口 993\n\n发信  {p1}\n端口 465",
+  "@incomingPortOutgoingPort": {
+    "description": "MailPilot UI: lib/mail_setup_guide.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "officialHelp": "官方帮助",
+  "verifiedOfficialPagesOpenInYourBrowser": "资料核对：{p0} · 官方网页将在浏览器打开",
+  "@verifiedOfficialPagesOpenInYourBrowser": {
+    "description": "MailPilot UI: lib/mail_setup_guide.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "returnToForm": "返回填写",
+  "mailpilotPreview": "MailPilot · 样例界面",
+  "thisLinkIsNotAValidWeb": "该链接不是可打开的网页地址",
+  "openWebpage": "打开网页",
+  "copyLink": "复制链接",
+  "openInBrowser": "在浏览器打开",
+  "image": "[图片{p0}]",
+  "@image": {
+    "description": "MailPilot UI: lib/markdown_reply.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "sizeUnknown": "大小待确认",
+  "firstPagesByDefaultPageCountPending": "默认前 10 页，页数待读取",
+  "selectPdfPageNumbers": "选择 PDF 页码",
+  "page": "第 {p0} 页",
+  "@page": {
+    "description": "MailPilot UI: lib/materials_sheet.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "fileName": "文件名",
+  "deselect": "取消选择",
+  "select420": "选择",
+  "materialsForThisAnalysis": "本次分析资料",
+  "materialSummary": "{p0} 个附件 · {p1}{p2}",
+  "@materialSummary": {
+    "description": "MailPilot UI: lib/materials_sheet.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "withUnknownSize": " · {p0} 个大小待确认",
+  "@withUnknownSize": {
+    "description": "MailPilot UI: lib/materials_sheet.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "closeMaterials": "关闭资料管理",
+  "upToAttachmentsMbAndImagesOr": "每轮最多 10 个附件、50 MB、20 张图片或 PDF 页面。\n{p0}",
+  "@upToAttachmentsMbAndImagesOr": {
+    "description": "MailPilot UI: lib/materials_sheet.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "actualImageCountsInPdfAndOffice": "PDF 与 Office 的实际图片量会在读取时检查。",
+  "selectedFilesAreReadOnlyWhenPreviewing": "只在预览或提问时读取选中的文件。",
+  "attachmentListAwaitingSync": "附件清单待同步",
+  "selectAllSupportedAttachments": "全选可分析附件",
+  "keepBodyOnly": "只保留正文",
+  "deviceFiles": "手机文件",
+  "noMaterialsSelectedAddFilesOrSelect": "尚未选择资料，添加文件或选择邮件即可。",
+  "materialCheckIncomplete": "资料检查未完成",
+  "retryWithCurrentMaterials": "按当前资料重试本轮",
+  "analyzedImages": "已分析的图片",
+  "previousAnalysisIsReusedByDefaultSelect": "默认复用此前分析。需要查看新细节时，勾选重新核对；下次发送时生效。",
+  "cancelRecheck": "取消重新核对",
+  "recheckImages": "重新核对图片",
+  "previousVersion": "上一版本",
+  "messageVersionCount": "第 {p0} 个版本，共 {p1} 个版本",
+  "@messageVersionCount": {
+    "description": "MailPilot UI: lib/message_versions.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "nextVersion": "下一版本",
+  "closeMessageActions": "关闭消息操作",
+  "copyMessage": "复制消息",
+  "messageCopied": "已复制消息",
+  "close": "关闭{p0}",
+  "@close": {
+    "description": "MailPilot UI: lib/model_controls.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "volcengineArk": "火山引擎 · 方舟",
+  "alibabaCloudModelStudio": "阿里云 · 百炼",
+  "openaiCompatibleApi": "通用兼容接口",
+  "minimalMinimal": "极低 · minimal",
+  "lowLow": "低 · low",
+  "mediumMedium": "中 · medium",
+  "highHigh": "高 · high",
+  "veryHighXhigh": "很高 · xhigh",
+  "maximumMax": "最高 · max",
+  "chooseImageProcessing": "选择图片处理方式",
+  "yourQuestionMaterialsAndCompletedAnalysisAre": "问题、资料和已完成的分析已保留。",
+  "adjustMaterials": "调整资料",
+  "reduceImagesPagesOrTextAndSubmit": "减少图片、页面或文字后重新提交",
+  "processThisTurnInBatches": "分批处理本轮",
+  "readUnfinishedImagesInBatchesThenSummarize": "分次读取尚未完成的图片，再汇总回答",
+  "couldNotReadThisPage": "无法读取此页",
+  "couldNotReadThisPagePleaseRetry": "无法读取此页，请重试",
+  "closePagePreview": "关闭页面预览",
+  "pageImageUnavailable": "此页图片无法显示",
+  "selectPdfPages": "选择 PDF 页面",
+  "pagesTotal": " · 共 {p0} 页",
+  "@pagesTotal": {
+    "description": "MailPilot UI: lib/pdf_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "pagesSelectedMaximum": "已选 {p0} 页 / 最多 20 页",
+  "@pagesSelectedMaximum": {
+    "description": "MailPilot UI: lib/pdf_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "selectAll": "全选",
+  "firstPages": "前 10 页",
+  "clear": "清空",
+  "readingPdf": "正在读取当前 PDF…",
+  "couldNotReadPageNumbers": "无法读取页码",
+  "retryReading": "重试读取",
+  "selectUpToPagesPerPdf": "每份 PDF 最多选择 20 页",
+  "deselectThisAttachment": "取消选择此附件",
+  "confirmSelectionPages": "确认选择 · {p0} 页",
+  "@confirmSelectionPages": {
+    "description": "MailPilot UI: lib/pdf_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "retryPreview": "重试预览",
+  "previewPage": "预览第 {p0} 页",
+  "@previewPage": {
+    "description": "MailPilot UI: lib/pdf_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "loadingPreview": "正在显示预览…",
+  "page480": "{p0}第 {p1} 页",
+  "@page480": {
+    "description": "MailPilot UI: lib/pdf_picker.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "reasoningSegmentHeading": "思考 {p0}\n",
+  "@reasoningSegmentHeading": {
+    "description": "MailPilot UI: lib/reasoning_panel.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "searching": "正在搜索",
+  "searchIncomplete": "搜索未完成",
+  "searchResultCount": "搜索到 {p0} 条结果",
+  "@searchResultCount": {
+    "description": "MailPilot UI: lib/reasoning_panel.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "readingWebpages": "正在读取网页",
+  "readWebpageCount": "已读取 {p0} 个网页",
+  "@readWebpageCount": {
+    "description": "MailPilot UI: lib/reasoning_panel.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "webpageReadingFinished": "网页读取结束",
+  "readingMaterials": "正在读取资料",
+  "sourceExcerptViewed": "已查看来源摘录",
+  "materialsReused": "已复用资料",
+  "searchingEmails": "正在检索邮件",
+  "emailsSearched": "已检索邮件",
+  "processing493": "正在处理",
+  "actionCompleted": "操作已完成",
+  "lessThanSecond": "不足 1 秒",
+  "elapsedSeconds": "{p0} 秒",
+  "@elapsedSeconds": {
+    "description": "MailPilot UI: lib/reasoning_panel.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "thinking497": "正在思考",
+  "thinkingStopped": "思考已停止",
+  "thinkingInterrupted": "思考已中断",
+  "process": "处理过程",
+  "thought": "已思考",
+  "reasoning": "思考过程",
+  "viewReasoning": "查看思考记录",
+  "currentAttempt": "本次尝试",
+  "previousAttempt": "上次尝试",
+  "earlierAttempt": "更早尝试 {p0}",
+  "@earlierAttempt": {
+    "description": "MailPilot UI: lib/reasoning_panel.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "viewingAPreviousAttempt": "正在查看上次尝试",
+  "reasoningIsLongTheFirstCharactersHave": "思考内容较长，已保留前 128000 字符。",
+  "jumpToEndOfReasoning": "回到思考末尾",
+  "uiPreviewSampleDataInstallAndroidTo": "界面预览 · 使用样例数据，连接邮箱和模型请安装 Android 版",
+  "dismissNotice": "关闭提示",
+  "backToHome": "返回主页",
+  "backToSettings": "返回设置",
+  "backToConversation": "返回对话",
+  "openMenu": "打开菜单",
+  "noVersionsAvailable": "版本记录为空",
+  "couldNotLoadVersionsPleaseRetry": "版本记录暂时无法读取，请重试",
+  "cannotEditThisQuestion": "无法修改此问题",
+  "couldNotEditThisQuestionPleaseRetry": "无法修改此问题，请重试",
+  "editNotSubmittedPleaseRetry": "修改未提交，请重试",
+  "addAModelFirst": "请先添加模型",
+  "materialCheckIncompletePleaseRetry": "资料检查未完成，请重试",
+  "newConversation": "新对话",
+  "whatSOnYourMind": "有什么想聊的？",
+  "letSMakeSenseOfYourEmails": "邮件里的事，一起理清。",
+  "configureAModelToChatYouCan": "配置模型即可聊天，邮箱可以稍后添加。",
+  "askAQuestionOrSelectEmailsAs": "直接提问，或选择邮件作为资料。",
+  "helpMeOrganizeMyThoughts": "帮我整理思路",
+  "helpMeWriteSomething": "帮我写段文字",
+  "summarizeSelectedEmails": "总结所选邮件",
+  "helpMeDraftAReply": "帮我起草回复",
+  "retryWebSearch": "重试联网",
+  "answerWithoutSearch": "关闭搜索后回答",
+  "continueSearching": "继续检索",
+  "responseIncomplete": "回答未完成",
+  "continueOrganizing": "继续整理",
+  "retryThisTurn": "重试本轮",
+  "viewBudget": "查看预算",
+  "retryWithCompatibleFormat": "兼容格式重试",
+  "chooseProcessingMethod": "选择处理方式",
+  "adjustMaterialsAndRetry": "调整资料后重试",
+  "restoreDefaultThinkingAndRetry": "恢复默认思考并重试",
+  "chooseVisionAssistant": "选择视觉助手",
+  "editConfiguration": "修改配置",
+  "vision": "读图 · {p0}",
+  "@vision": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "sourceCount": "{p0} 处来源",
+  "@sourceCount": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "int"
+      }
+    }
+  },
+  "copyResponse": "复制回答",
+  "originalMarkdownCopied": "已复制 Markdown 原文",
+  "responseStopped": "本次回答已停止",
+  "stoppedThePartialResponseReceivedIsShown": "已停止，以上是收到的部分回答",
+  "reviewDraftAndSend": "查看草稿并发送",
+  "writeAsEmail": "写成邮件",
+  "connectingToModel": "正在连接模型…",
+  "viewingAnOlderVersion": "正在查看历史版本",
+  "backToLatest": "回到最新",
+  "textModel": "文字模型",
+  "tapToCancelSync": "{p0} · 点击取消同步",
+  "@tapToCancelSync": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "syncLatestEmailsInEachFolder": "同步各文件夹最新 50 封",
+  "searchEmails": "搜索邮件",
+  "emailActions": "邮件操作",
+  "syncEmailsPerFolder": "同步邮件（每文件夹 50 封）",
+  "showAll": "显示全部",
+  "showUnread": "只看未读",
+  "subjectOrSender": "主题或发件人",
+  "runSearch": "执行搜索",
+  "connectAnEmailAccountFirst": "先连接一个邮箱",
+  "supportsQqAndCustomEmailProviders": "支持 QQ、163 和自定义邮箱。",
+  "noLocalEmailsYet": "暂无本地邮件",
+  "pullDownToSyncRecentEmailsStartup": "下拉同步最新邮件，启动时不会自动同步。",
+  "analyzeSelectedEmails": "分析已选的 {p0} 封邮件",
+  "@analyzeSelectedEmails": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "emailDetails": "邮件详情",
+  "replyAndForward": "回复与转发",
+  "reply": "回复",
+  "replyAll": "回复全部",
+  "forward": "转发",
+  "recipientDetails": "收件信息",
+  "toCc": "收件人：{p0}\n抄送：{p1}",
+  "@toCc": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "bodyAwaitingBackgroundSyncYouCanKeep": "正文待后台同步，可继续浏览其他邮件。",
+  "attachments": "附件 · {p0}",
+  "@attachments": {
+    "description": "MailPilot UI: lib/screens.dart",
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "tapAnAttachmentToPreviewSelectIt": "点按附件预览，勾选用于 AI 分析",
+  "askAssistant": "交给助手",
+  "noDraftsYet": "还没有草稿",
+  "writeYourOwnOrAskTheAssistant": "自己写，或让助手帮你起草。",
+  "configurationSaved": "配置已保存",
+  "closeConfiguration": "关闭配置",
+  "actionFailed": "操作失败",
+  "backToConfiguration": "返回配置",
+  "volcengineWebSearch": "火山联网搜索",
+  "bocha": "博查",
+  "systemPreferredCloudOptional": "系统优先，云端可选",
+  "qwenCloudTranscription": "千问云端识别",
+  "automaticSystemRecognitionFollowsDeviceLanguage": "自动（系统识别跟随手机语言）",
+  "chinese": "中文",
+  "searchProvider": "搜索服务商",
+  "recognitionMode": "识别方式",
+  "speechLanguage": "语音语言",
+  "automatic": "自动",
+  "systemRecognitionNeedsNoApiKeyIf": "系统识别不需要配置密钥。手机没有识别服务时，可使用下方千问 ASR。",
+  "usedOnlyWhenSmartSearchIsEnabled": "仅在开启智能搜索并提问时使用。搜索服务只接收本轮问题提取的关键词，不接收邮件、附件或历史聊天。",
+  "qwenAsrBaseUrl": "千问 ASR Base URL",
+  "fullSearchApiUrl": "完整搜索接口地址",
+  "leaveBlankToRetainTheSavedKey": "留空保留已保存密钥",
+  "showOrHideKey": "显示或隐藏密钥",
+  "asrModel": "ASR 模型",
+  "forExampleQwenAsrFlash": "例如 qwen3-asr-flash",
+  "transcriptionFillsTheInputFieldOnlyReview": "识别结果只填入输入框；检查后由你发送。切换云端需要重新录音，最长 60 秒。",
+  "streamingUiStateIsOutOfSync": "流式界面状态已失步，请重新打开当前对话。",
+  "streamNotReceivedCompletelyReopenThisConversation": "流式内容未完整接收，请重新打开当前对话。",
+  "appLanguage": "语言",
+  "languageTitle": "选择语言",
+  "languageDescription": "切换界面语言，邮件与对话内容保持原文。"
+}

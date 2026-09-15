@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-15",
+  "version": "1.0.0",
+  "build": 43,
+  "flutterTests": {
+    "passed": 489,
+    "added": 84
+  },
+  "flutterAnalysis": "no issues",
+  "nativeTests": {
+    "skipped": 0,
+    "passed": 3,
+    "failed": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 13
+  },
+  "api36": {
+    "device": "MailPilot_API36",
+    "smtpRequests": 0,
+    "status": "passed",
+    "tests": 2,
+    "package": "app.mailpilot.validation",
+    "screenshots": 9,
+    "realModelRequests": 0,
+    "searchRequests": 0
+  },
+  "dailyPackage": {
+    "releaseUpgradeTested": false,
+    "unchanged": true
+  },
+  "languageCatalogs": 8,
+  "messagesPerCatalog": 612,
+  "layoutCases": 72
+}
